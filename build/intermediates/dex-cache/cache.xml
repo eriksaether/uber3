@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/vikent/AndroidStudioProjects/Uber3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="92bd5d7798a3dd53a4afb18ef13c62c0d6b60293">
+        <dex dex="/home/vikent/AndroidStudioProjects/Uber3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_59d188a8f0dc95b5f6569ceaac4f39166810ce34/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikent/.android/build-cache/bcb3df06ac8cd1be7aaff6445bf463ab0b1b8443/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/home/vikent/AndroidStudioProjects/Uber3/app/build/intermediates/pre-dexed/debug/classes_61c7a391a1f2ee4ac79f7fc91d51592e8ce70117.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikent/AndroidStudioProjects/Uber3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/vikent/AndroidStudioProjects/Uber3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f69fb5318b7bbdee6f8e3d7ca27abf98b809b64a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikent/.android/build-cache/97a173339089133d46ff2729e5ab89b1bb269862/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/home/vikent/AndroidStudioProjects/Uber3/app/build/intermediates/pre-dexed/debug/classes_0d5fc7e72e12077ae66acb268122d568a5b6418d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikent/.android/build-cache/708ee672d8f383fe62c574ecee779cbad6c2e1ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/home/vikent/AndroidStudioProjects/Uber3/app/build/intermediates/pre-dexed/debug/classes_e599e66be877568b178ff07f9472561a4404d567.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikent/.android/build-cache/e855631aedf46af3b689c5fee7a8a9d25429db71/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="/home/vikent/AndroidStudioProjects/Uber3/app/build/intermediates/pre-dexed/debug/classes_0dfa5207762808132592a4889ad8f4e00f717e8b.jar" />
+    </item>
+
+</items>
